@@ -22,6 +22,14 @@ RPAエンジニアに従事する傍らペネトレーションテスターを�
 - **OS**: Kali Linux, Windows
 - **学習中**: CompTIA Security+, CEH, OSCP
 
+- ## 💻 My Setup
+高性能な環境でペンテストを効率的に学習中！
+- **PC**: Lenovo ThinkPad T14
+- **CPU**: Intel Core i7-10610U (4コア / 8スレッド) 第10代
+- **RAM**: 32 GB
+- **ストレージ**: 1 TB NVMe SSD
+- **OS**: Kali Linux 直ダウンロード
+
 ## 🛠️ プロジェクトと実績
 - **[TryHackMe Write-ups](https://github.com/username/tryhackme-writeups)**: 「Basic Pentesting」でSQLインジェクションとXSSを攻略。詳細な手順をドキュメント化。
 - **[Python Port Scanner](https://github.com/username/port-scanner)**: 自作のポートスキャンツール。Nmapを参考にPythonで実装。
