@@ -23,7 +23,6 @@ RPAエンジニアに従事する傍らペネトレーションテスターを�
 - **学習中**: CompTIA Security+, CEH, OSCP
 
 - ## 💻 My Setup
-高性能な環境でペンテストを効率的に学習中！
 - **PC**: Lenovo ThinkPad T14
 - **CPU**: Intel Core i7-10610U (4コア / 8スレッド) 第10代
 - **RAM**: 32 GB
