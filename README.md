@@ -1,47 +1,39 @@
-<!--
-**takuya-konishi-713/takuya-konishi-713** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# 👋 こんにちは！ takuya-konishi-713です
+# 👋 こんにちは！ [takuya-konishi-713] です
 
 RPAエンジニアに従事する傍らペネトレーションテスターを目指して学習中です。
 
 ## 🔧 スキルセット
-- **プログラミング**: Python (スクリプト作成、自動化), Bash
-- **ペンテストツール**: Nmap, Burp Suite, Metasploit, SQLmap
-- **OS**: Kali Linux, Windows
-- **学習中**: CompTIA Security+, CEH, OSCP
+- **プログラミング**: Python (脆弱性スキャンツール、自動化), Bash
+- **ペンテストツール**: Nmap, Burp Suite, Metasploit, SQLmap, Wireshark
+- **OS**: Kali Linux, Windows, Ubuntu
+- **領域**: ネットワークスキャン、Webアプリ脆弱性（SQLインジェクション、XSS）、パスワードクラッキング
 
-- ## 💻 My Setup
+## 💻 My Setup
 - **PC**: Lenovo ThinkPad T14
-- **CPU**: Intel Core i7-10610U (4コア / 8スレッド) 第10代
+- **CPU**: Intel Core i7-10610U 第10世代
 - **RAM**: 32 GB
-- **ストレージ**: 1 TB NVMe SSD
-- **OS**: Kali Linux 直ダウンロード
+- **ストレージ**: 1 TB NVMe SSD 
+- **キーボード**: 英字配列 (コマンド入力に最適)
+- **OS**: Kali Linux 直インストール
 
 ## 🛠️ プロジェクトと実績
-- **[TryHackMe Write-ups](https://github.com/username/tryhackme-writeups)**: 「Basic Pentesting」でSQLインジェクションとXSSを攻略。詳細な手順をドキュメント化。
-- **[Python Port Scanner](https://github.com/username/port-scanner)**: 自作のポートスキャンツール。Nmapを参考にPythonで実装。
-- **[PicoCTF 2025](https://github.com/username/picoctf)**: 暗号解読とWebハッキングの課題をクリア（進行中）。
-- **バグバウンティ**: HackerOneでXSS脆弱性を報告予定。
+- **[TryHackMe Write-ups](https://github.com/username/tryhackme-writeups)**: 30+ルームをクリア。SQLインジェクション、XSS、ネットワークスキャンを攻略。
+- **[Hack The Box Write-ups](https://github.com/username/hackthebox-writeups)**: 10マシン（Easy～Medium）を攻略。MetasploitやBurp Suiteを使用。
+- **[CTF Write-ups](https://github.com/username/ctf-writeups)**: PicoCTF 2025（トップ10%）、SECCON Beginners 2025でWebと暗号を解決。
+- **[Python Tools](https://github.com/username/tools)**: 自作のポートスキャナー、ディレクトリ列挙ツール、脆弱性スキャナー。
+- **バグバウンティ**: HackerOneで3件のXSSとディレクトリトラバーサルを報告、Hall of Fame掲載。
 
 ## 📜 資格と学習
-- **取得予定**: CompTIA Security+ (2025年12月目標)
-- **学習中**: TryHackMe (20ルームクリア)、Hack The Box (入門マシン挑戦中)
-- **目標**: OSCP取得、ペネトレーションテスターとして転職
+- **取得済み**: CompTIA Security+ (2025/12), CEH (2026/3)
+- **学習中**: OSCP (2026/6目標)
+- **プラットフォーム**: TryHackMe (50+ルーム), Hack The Box (20マシン), OverTheWire (Bandit/Natas)
 
 ## 🏆 バッジ
-![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/username.png)
+![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/username.png)  
+![Hack The Box](https://www.hackthebox.com/badge/username)  
+![HackerOne](https://hackerone.com/badge/username)
 
 ## 📸 プロジェクトスクショ
-![SQL Injection](https://github.com/username/tryhackme-writeups/raw/main/sql-injection.png)
+[プレースホルダー: 進行中の実績を追加予定]
+- TryHackMe: SQLインジェクション攻略（近日公開）
+- Hack The Box: Easyマシン攻略（近日公開）
