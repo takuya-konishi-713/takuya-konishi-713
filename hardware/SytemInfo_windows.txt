@@ -1,0 +1,43 @@
+OS 名	Microsoft Windows 11 Pro
+バージョン	10.0.22631 ビルド 22631
+OS の他の説明 	利用不可
+OS 製造元	Microsoft Corporation
+システム名	DESKTOP-U31THMA
+システム製造元	LENOVO
+システムモデル	20T1S6AB03
+システムの種類	x64-ベース PC
+システム SKU	LENOVO_MT_20T1_BU_Think_FM_ThinkPad T14s Gen 1
+プロセッサ	Intel(R) Core(TM) i7-10610U CPU @ 1.80GHz、2304 Mhz、4 個のコア、8 個のロジカル プロセッサ
+BIOS バージョン/日付	LENOVO N2YET45W (1.34 ), 2024/10/31
+SMBIOS バージョン	3.2
+埋め込みコントローラーのバージョン	1.15
+BIOS モード	UEFI
+ベースボード製造元	LENOVO
+ベースボード製品	20T1S6AB03
+ベースボード バージョン	SDK0J40697 WIN
+プラットフォームの役割	モバイル
+セキュア ブートの状態	無効
+PCR7 構成	バインド不可
+Windows ディレクトリ	C:\Windows
+システム ディレクトリ	C:\Windows\system32
+ブート デバイス	\Device\HarddiskVolume1
+ロケール	日本
+ハードウェア アブストラクション レイヤー	バージョン = "10.0.22621.2506"
+ユーザー名	DESKTOP-U31THMA\ABC
+タイム ゾーン	東京 (標準時)
+インストール済みの物理メモリ (RAM)	32.0 GB
+合計物理メモリ	31.7 GB
+利用可能な物理メモリ	25.2 GB
+合計仮想メモリ	36.7 GB
+利用可能な仮想メモリ	30.7 GB
+ページ ファイルの空き容量	5.00 GB
+ページ ファイル	C:\pagefile.sys
+カーネル DMA 保護	有効
+仮想化ベースのセキュリティ	無効
+Windows Defender アプリケーション制御ポリシー	強制
+Windows Defender アプリケーション制御ユーザー モード ポリシー	無効
+デバイス暗号化のサポート	デバイスの自動暗号化が失敗した理由: TPM は使用できません, PCR7 バインドはサポートされていません, 許可されていない DMA 対応バス/デバイスが検出されました, TPM は使用できません
+Hyper-V - VM モニター モード拡張機能	はい
+Hyper-V - 第 2 レベル アドレス変換拡張機能	はい
+Hyper-V - ファームウェアで仮想化が有効	はい
+Hyper-V - データ実行防止	はい
