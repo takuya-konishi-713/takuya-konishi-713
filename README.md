@@ -13,7 +13,11 @@ RPAエンジニアに従事する傍らペネトレーションテスターを�
 - **CPU**: Intel Core i7-10610U 第10世代
 - **RAM**: 32 GB
 - **ストレージ**: 1 TB NVMe SSD 
-- **OS**: Kali Linux 直インストール
+- **OS**: Kali Linux and Windows11 DualBoot
+- **周辺機器**:
+- ALFA AWUS036NHA（Atheros AR9271、2.4GHz、モニターモード対応、パケットインジェクション対応）
+- ALFA AWUS036AC（5GHz対応、AC規格）
+- セルフパワー USBハブ（Wi-Fiアダプターを安定して動作させるため）
 
 ## 🛠️ プロジェクトと実績
 - **[TryHackMe Write-ups](https://github.com/username/tryhackme-writeups)**: 30+ルームをクリア。SQLインジェクション、XSS、ネットワークスキャンを攻略。
